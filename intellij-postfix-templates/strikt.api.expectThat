@@ -1,0 +1,4 @@
+## Templates for strikt ##
+
+.expectThat : strikt expectThat
+    ANY                          [strikt.api.expectThat]     →  strikt.api.expectThat($expr$)
